@@ -8,7 +8,7 @@ namespace MvcApplication1.Controllers
 {
    public class HomeController : Controller
     {
-        public ActionResult Index()
+      //sass  public ActionResult Index()
         {
             ViewBag.Message = "My awesome ASP.NET MVC application with changes.";
 
